@@ -1,6 +1,7 @@
 # dynamic-stylesheet
 
 ![npm-version](https://img.shields.io/npm/v/dynamic-stylesheet.svg)
+[![codecov](https://codecov.io/gh/zhangyu1818/dynamic-stylesheet/branch/main/graph/badge.svg?token=0ZTpVwfEDU)](https://codecov.io/gh/zhangyu1818/dynamic-stylesheet)
 ![bundlesize-js-image](https://img.badgesize.io/https:/unpkg.com/dynamic-stylesheet/dist/index.js?label=gzip&compression=gzip&style=flat-square)
 
 dynamic inject css with javascript.
